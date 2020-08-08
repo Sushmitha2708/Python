@@ -1,0 +1,34 @@
+{
+	"countries": [
+		{
+			"name":"India",
+			"capital":"New Delhi",
+			"pm":"Narendra Modi"
+		},
+		{
+			"name":"Pakistan",
+			"capital":"Islamabad",
+			"pm":"Imran Khan"
+
+		},
+		{
+			"name":"Russia",
+			"capital":"Moscow",
+			"pm":"Mikhail Mishustin"
+		},
+		{
+			"name":"Finland",
+			"capital":"Helsinnki",
+			"pm":"Sanna Marin"
+		},
+		{
+			"name":"UK",
+			"capital":"London",
+			"pm":"Borris Johnson"
+		},
+		{
+			"name":"Canada",
+			"capital":"Ottawa",
+			"pm":"Justin Treadeu"
+		}]
+}
